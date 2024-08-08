@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Il mondo delle Microcredenziali</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Il mondo delle Microcredenziali</h1>
+        <nav>
+            <ul>
+                <li><a href="#cosa-sono">Cosa sono</a></li>
+                <li><a href="#vantaggi">Vantaggi</a></li>
+                <li><a href="#implementazione">Implementazione</a></li>
+                <li><a href="#focus">Focus</a></li>
+                <li><a href="#risorse">Risorse</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="cosa-sono">
+            <h2>Cosa sono</h2>
+            <p>Le microcredenziali rappresentano piccole unità di apprendimento che certificano competenze specifiche acquisite attraverso corsi brevi e mirati...</p>
+        </section>
+        <section id="vantaggi">
+            <h2>Vantaggi</h2>
+            <p>Le microcredenziali offrono numerosi vantaggi, tra cui la flessibilità nell'apprendimento, l'accesso rapido a nuove competenze...</p>
+        </section>
+        <section id="implementazione">
+            <h2>Implementazione</h2>
+            <p>Per implementare con successo le microcredenziali, è necessario sviluppare un ecosistema che includa istituti di formazione, aziende, e organizzazioni della società civile...</p>
+        </section>
+        <section id="focus">
+            <h2>Focus</h2>
+            <article>
+                <h3>Come si valutano le microcredenziali?</h3>
+                <p>Le microcredenziali vengono valutate in base a criteri trasparenti e chiaramente definiti...</p>
+            </article>
+            <article>
+                <h3>Le microcredenziali sostituiscono la formazione tradizionale?</h3>
+                <p>Le microcredenziali non sostituiscono la formazione tradizionale, ma la integrano offrendo opportunità di apprendimento flessibili e mirate...</p>
+            </article>
+            <article>
+                <h3>Quanto tempo richiede completare una microcredenziale?</h3>
+                <p>Il tempo necessario per completare una microcredenziale varia a seconda del corso specifico e delle competenze da acquisire...</p>
+            </article>
+        </section>
+        <section id="risorse">
+            <h2>Risorse</h2>
+            <p>In questa sezione troverete una raccolta di risorse utili, tra cui articoli, video, e link a corsi online...</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Il mondo delle Microcredenziali</p>
+    </footer>
+</body>
+</html>
